@@ -66,9 +66,9 @@ Below is the comparative list of commercial gaming controllers and integrated co
 
 ## 🔓 Open-Source Firmware & Software Projects
 
-Sorted by **GitHub Star Count (Descending)**:
+Sorted by **GitHub Stars_Count (Descending)**:
 
-| Repository & Project | Description & Key Capabilities | GitHub Star Count ⭐ |
+| Repository & Project | Description & Key Capabilities | GitHub Stars_Count ⭐ |
 | :--- | :--- | :--- |
 | **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** 🎮 | **Windows driver and utility for Sony DualShock 4 & DualSense gamepads.** Emulates Xbox 360 controller, key mapping, touchpad navigation, and LED customize. | [![Stars](https://img.shields.io/github/stars/Ryochan7/DS4Windows?style=social&color=white)](https://github.com/Ryochan7/DS4Windows/stargazers) |
 | **[AntiMicroX](https://github.com/AntiMicroX/antimicrox)** ⌨️ | **Graphical mapping software for keyboard buttons & mouse controls to gamepads.** C++ based, supports profile switching, gyro, rumble, Linux, Windows, SteamOS. | [![Stars](https://img.shields.io/github/stars/AntiMicroX/antimicrox?style=social&color=white)](https://github.com/AntiMicroX/antimicrox/stargazers) |
@@ -87,7 +87,7 @@ We welcome contributions from competitive gamers, DIY hardware builders, and fir
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or edit** entries in `README.md` maintaining table formatting.
-3. 📌 **Include**: Project Name, URL, concise description, verified pricing, and repository star badge.
+3. 📌 **Include**: Project Name, URL, concise description, verified pricing, and repository Stars_Badge.
 4. 🚀 **Submit a Pull Request** with a descriptive title.
 
 ---
